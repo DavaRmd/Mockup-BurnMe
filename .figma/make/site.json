@@ -1,0 +1,10 @@
+{
+  "description": "Analyze and improve CVs by scanning for ATS compatibility and job match, providing detailed feedback and actionable tips to boost job application success.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
